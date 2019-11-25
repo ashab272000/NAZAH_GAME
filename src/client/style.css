@@ -200,6 +200,17 @@ body {
       margin-right: 120px;
       float: right;
   }
+
+  .time {
+    position: absolute;
+    margin-left: 33%;
+}
+
+.time h1{
+    position: center;
+    color: white;
+}
+
 /* ------------ Player UI ------------------- */
 
   .unGame{
